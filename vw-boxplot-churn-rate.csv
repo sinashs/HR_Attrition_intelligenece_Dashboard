@@ -1,0 +1,4 @@
+salary,min_promotion_rate,p25_promotion_rate,median_promotion_rate,p75_promotion_rate,max_promotion_rate
+low,0.0,0.006,0.006,0.01,0.039
+medium,0.0,0.013,0.018,0.062,0.076
+high,0.0,0.0,0.02,0.063,0.2
